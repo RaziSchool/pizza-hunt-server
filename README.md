@@ -1,1 +1,1 @@
-# pizza-hunt-server
+# M18-Pizza-Hunt
